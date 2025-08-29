@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arafat-shuvo/ju-final.git"
+    "url": "git+https://github.com/Arafat-shuvo/u_project.git"
   },
   "keywords": [
     "g25"
@@ -39,7 +39,7 @@
   "author": "Md Arafat hossain arafathshuvo20493@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Arafat-shuvo/ju-final/issues"
+    "url": "https://github.com/Arafat-shuvo/u_project/issues"
   },
-  "homepage": "https://github.com/Arafat-shuvo/ju-final#readme"
+  "homepage": "https://github.com/Arafat-shuvo/u_project#readme"
 }
