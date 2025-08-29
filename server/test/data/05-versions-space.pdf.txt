@@ -1,0 +1,12 @@
+
+
+I'm excited to apply my 1.5+ years of Node.js expertise to build scalable 
+backend systems at AppifyDevs. Having optimized RESTful APIs and 
+MongoDB databases in production environments, I'm particularly drawn to 
+your focus on architectural patterns like CQRS - which aligns perfectly 
+with my interest in clean, maintainable systems. The opportunity to 
+mentor junior developers while working with technologies like NestJS and 
+WebSockets would allow me to contribute my experience in real-time 
+systems and third-party integrations. I'm especially impressed by 
+AppifyDevs' commitment to cutting-edge solutions and would love to help 
+drive key database architecture decisions. 
